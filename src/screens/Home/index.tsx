@@ -15,8 +15,8 @@ export const Home = () => {
   const [selectedLanguage, setSelectedLanguage] = useState("");
   const [languageList, setLanguageList] = useState([
     "English",
-    "Spanish",
     "Portuguese",
+    "Spanish",
   ]);
 
   const { height } = useWindowDimensions();
