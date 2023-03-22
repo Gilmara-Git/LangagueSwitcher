@@ -53,6 +53,9 @@ Thereafter you are able to **change the text content language** by tapping on th
 
 # Documentation used:
 [Expo Localization](https://docs.expo.dev/versions/latest/sdk/localization/)
+# Demonstration on how to use this feature:
+[Miss Coding channel](https://www.youtube.com/watch?v=NqhXtRRm8kY)
+
 
 Made with 💗 by Gilmara Pimentel
 
